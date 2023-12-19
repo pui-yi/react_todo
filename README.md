@@ -26,11 +26,11 @@ From Claudia Ferreira Da Silva: "Nicely done but here a food for thought - seman
 <br><br> 
 
 ## Screenshot:
-<img width="540" alt="Screenshot 2023-12-18 at 3 51 13 PM" src="https://github.com/pui-yi/react_todo/assets/153875169/763b4596-ab1c-4399-b9aa-0714ff09bae5">
-<img width="540" alt="Screenshot 2023-12-18 at 3 51 49 PM" src="https://github.com/pui-yi/react_todo/assets/153875169/f96d64e7-f46f-42d8-9bf8-2cb552fe4737">
-<img width="540" alt="Screenshot 2023-12-18 at 3 55 54 PM" src="https://github.com/pui-yi/react_todo/assets/153875169/a8bbffc1-0e9c-4ba4-8f98-694e6cf1f013">
-<img width="540" alt="Screenshot 2023-12-18 at 3 56 45 PM" src="https://github.com/pui-yi/react_todo/assets/153875169/4d9200c8-9e66-46cd-9feb-32f45a33db93">
-<img width="540" alt="Screenshot 2023-12-18 at 3 56 53 PM" src="https://github.com/pui-yi/react_todo/assets/153875169/2e584cd9-12b2-4a34-8292-ae2062d426f7">
+<img width="540" alt="Screenshot showing the application in light theme" src="https://github.com/pui-yi/react_todo/assets/153875169/763b4596-ab1c-4399-b9aa-0714ff09bae5">
+<img width="540" alt="Screenshot showing the application in dark theme" src="https://github.com/pui-yi/react_todo/assets/153875169/f96d64e7-f46f-42d8-9bf8-2cb552fe4737">
+<img width="540" alt="Screenshot showing the application with the drop box clicked and course information shown" src="https://github.com/pui-yi/react_todo/assets/153875169/a8bbffc1-0e9c-4ba4-8f98-694e6cf1f013">
+<img width="540" alt="Screenshot showing the application with one of the courses being selected" src="https://github.com/pui-yi/react_todo/assets/153875169/4d9200c8-9e66-46cd-9feb-32f45a33db93">
+<img width="540" alt="Screenshot showing the application with one of the courses being added" src="https://github.com/pui-yi/react_todo/assets/153875169/2e584cd9-12b2-4a34-8292-ae2062d426f7">
 
 
 
